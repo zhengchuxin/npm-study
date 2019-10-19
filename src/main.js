@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-import vuePayKeyboard from './lib/index.js'
-Vue.use(vuePayKeyboard)
+import vuePayKeyboard1 from './lib/index.js'
+Vue.use(vuePayKeyboard1)
 
 new Vue({
   el: '#app',
